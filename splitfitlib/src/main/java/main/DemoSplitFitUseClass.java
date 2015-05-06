@@ -15,7 +15,4 @@ public class DemoSplitFitUseClass {
     IExercise exerciseB = new Exercise();
     IExercise exerciseC = new Exercise();
 
-    // naming everything
-    plan.setName("My first Plan.");
-
 }
