@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SplitFit.iml" filepath="$PROJECT_DIR$/SplitFit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splitfitlib/splitfitlib.iml" filepath="$PROJECT_DIR$/splitfitlib/splitfitlib.iml" />
     </modules>
   </component>
 </project>
