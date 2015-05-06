@@ -1,4 +1,4 @@
-package training;
+package main.training;
 
 /**
  * Created by jonas on 05/05/2015.
